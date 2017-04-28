@@ -1,3 +1,4 @@
+// Plyr instances
 var instances = plyr.setup({controls : ['play-large', 'play', 'progress', 'current-time', 'captions']});
 
 $(function() {
